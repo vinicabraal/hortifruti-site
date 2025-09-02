@@ -1,0 +1,1 @@
+document.getElementById('btn').addEventListener('click', ()=> alert('Conheça nossos produtos locais!'));
